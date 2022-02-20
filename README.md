@@ -31,3 +31,11 @@ I wrote the back-end, connected the front-end, and then deployed the application
 
 
 
+<img width="1162" alt="SS1" src="https://user-images.githubusercontent.com/46231696/154835884-99f1a8a8-9a8a-473d-9ebd-f9b30ba527c3.png">
+
+<img width="559" alt="SS 2" src="https://user-images.githubusercontent.com/46231696/154835890-07c00be6-5ac8-49f9-9287-7d34afa0ff1e.png">
+
+
+
+
+
